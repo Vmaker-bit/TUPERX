@@ -2416,8 +2416,8 @@ game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
 end)
 
 
-_G.Color = Color3.fromRGB(255,255,0)
-local win = ui:W1n("SKYLER HUB | KAITUN MOBILB","",255,255,0,Enum.KeyCode.RightControl)
+_G.Color = Color3.fromRGB(127,0,255)
+local win = ui:W1n("MIRACLE HUB | KAITUN MOBILB","",255,255,0,Enum.KeyCode.RightControl)
 local Main1 = win:Tap("Main1")
 local A1 = Main1:newpage()
 local A2 = Main1:newpage()
