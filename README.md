@@ -2,11 +2,11 @@ SelectToolWeapon = "Combat"
 
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local win = DiscordLib:Window("KAITAN | CHIBA HUB")
+local win = DiscordLib:Window("My Own Auto Farm")
 
-local serv = win:Server("CHIBA HUB", "")
+local serv = win:Server("Nigger", "")
 
-local page1 = serv:Channel("KAITAN")
+local page1 = serv:Channel("Nigger7")
 
 
 
